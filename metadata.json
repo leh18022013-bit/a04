@@ -1,0 +1,6 @@
+{
+  "name": "A04 – THCS Kim Liên",
+  "description": "Cổng thông tin lớp học A04 THCS Kim Liên - Sơ đồ chỗ ngồi, tài liệu học tập, danh sách thành viên, thông báo và quản trị lớp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
